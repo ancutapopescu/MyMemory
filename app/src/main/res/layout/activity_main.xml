@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/clRoot"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
@@ -32,6 +33,8 @@
                 android:text="Moves: 0"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large" />
         </androidx.cardview.widget.CardView>
+
+        <!--https://www.thedroidsonroids.com/blog/how-to-add-card-flip-animation-to-your-android-app-->
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
