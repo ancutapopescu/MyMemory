@@ -34,7 +34,8 @@
                 android:textAppearance="@style/TextAppearance.AppCompat.Large" />
         </androidx.cardview.widget.CardView>
 
-        <!--https://www.thedroidsonroids.com/blog/how-to-add-card-flip-animation-to-your-android-app-->
+        <!--https://www.thedroidsonroids.com/blog/how-to-add-card-flip-animation-to-your-android-app
+        https://classroom.udacity.com/nanodegrees/nd940/parts/1869cb39-bb21-4645-b3af-55e88744dcbd/modules/a3d1c11b-73d4-4544-b206-cf10976f5030/lessons/570bb666-4bab-44e1-a0b5-9206efdbc075/concepts/ba72e241-65c5-40f6-a3ad-16e821782333-->
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
